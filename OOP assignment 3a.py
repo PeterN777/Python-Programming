@@ -12,7 +12,7 @@ class Calculator:
     def multiply (self):
          print ("The product is", self.num1*self.num2)
     def divide (self):
-         print (f"The division is{self.num1/self.num2}" )
+         print (f"The division is {self.num1/self.num2}" )
     
 
 calc1= Calculator(5,5)           
