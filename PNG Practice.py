@@ -36,3 +36,8 @@ Location = {
     "Longitude" : '12deg.East',
     }
 print (Location)
+
+num = 1
+while num <= 15:
+    print(num)
+    num += 2
